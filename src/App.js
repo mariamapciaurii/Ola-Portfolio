@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navigation from "./components/Navigation/navigation";
-import Home from "./components/Home/home";
-import About from "./components/About/about";
-import Contact from "./components/Contact/contact";
-import Projects from "./components/Projects/projects";
+import Navigation from "./components/Navigation/Navigation";
+import Home from "./components/Home/Home";
+import About from "./components/About/About";
+import Contact from "./components/Contact/Contact";
+import Projects from "./components/Projects/Projects";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 

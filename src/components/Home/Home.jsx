@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "./home.css";
+import "./Home.css";
 import main from "../../image/Group 2.svg";
 import leaves from "../../image/Leaves.png";
 const Home = () => {

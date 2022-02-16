@@ -1,4 +1,4 @@
-import "./about.css";
+import "./About.css";
 import leaves from '../../image/Leaves.png';
 const About = () => {
   return (
